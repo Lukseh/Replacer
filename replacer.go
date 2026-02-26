@@ -1,4 +1,4 @@
-package main
+package replacer
 
 /*
 	#cgo CFLAGS: -I.
